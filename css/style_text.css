@@ -3,5 +3,19 @@ seletor{
     propriedade: valor;
     propriedade: valor;
 }
-/*
+*/
+
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: blue;
+}
+
+p {
+    font-family: Helvetica;
+    text-align: justify;
+    line-height: 35px;
+    color: aqua;
+}
 
